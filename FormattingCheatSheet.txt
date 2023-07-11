@@ -1,0 +1,15 @@
+Column Heading  | Shortcut
+----------------|---------
+Date            | D
+Media Outlet    | MO
+Title           | T
+Total Readership| TR
+Media Type      | MT
+Market          | M
+Topic           | Tp
+Link            | L
+Notes           | N
+Sentiment       | S
+Blank Column    | 
+Delete Previous | DP
+Finish          | I love Blake
