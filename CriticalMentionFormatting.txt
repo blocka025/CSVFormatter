@@ -1,0 +1,10 @@
+Column Heading              | Shortcut
+----------------------------|----------
+Broadcast Date              | BD
+Program Title               | PT
+Channel Name                | CN
+Market                      | M
+Estimated National Audience | ENA
+URL                         | U
+Media Type                  | MT
+Finish                      | I love Blake
